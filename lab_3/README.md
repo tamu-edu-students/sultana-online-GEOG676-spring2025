@@ -1,10 +1,3 @@
-\#GIS\_Programming
-
-
-#Lab\_3
-
-
-
 \# create classes
 
 class Shape():
