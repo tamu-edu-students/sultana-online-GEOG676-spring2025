@@ -134,4 +134,5 @@ class GraduatedColorsRenderer(object):
 
         project.saveACopy(output_path)
 
+
         return
